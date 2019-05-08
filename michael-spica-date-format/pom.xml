@@ -7,7 +7,7 @@
     <artifactId>michael-spica-date-format</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>michael-spica-date-format</name>
-    <description>Demo project for Spring Boot</description>
+    <description>SpringBoot 全局日期格式化（基于注解）</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
