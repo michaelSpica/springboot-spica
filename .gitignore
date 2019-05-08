@@ -1,0 +1,32 @@
+.git
+.git\*
+
+.idea
+.idea\*
+
+target
+target/*
+*/target/*
+
+*.iml # 忽略所有 .iml 结尾的文件
+*/*.iml
+
+*/.classpath
+*/classes/*
+*/.project
+
+/*/*.iml
+
+*/transaction-logs/**
+/transaction-logs/**
+/data/**
+*/data/**
+
+META-INF
+META-INF/*
+*/META-INF/*
+
+*.MF
+
+### CUSTOM ###
+/basedir/
